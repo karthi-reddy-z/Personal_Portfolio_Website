@@ -8,7 +8,7 @@ This portfolio explores the intersection of **Artificial Intelligence** and **Im
 
 Built with the latest **Next.js 14** stack, it serves as both a showcase of my projects and a playground for my experiments with React Three Fiber, Framer Motion, and Generative UI.
 
-
+**Live Demo:** https://personal-portfolio-website-mu-three.vercel.app/
 
 ## 🚀 Experience the Galaxy
 
